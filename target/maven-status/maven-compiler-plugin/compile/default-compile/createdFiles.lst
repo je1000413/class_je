@@ -1,0 +1,13 @@
+matching/ClassFinished.class
+matching/AbstractEvent.class
+matching/ClassApplication.class
+matching/ClassStatusViewHandler.class
+matching/VisitAssigned.class
+matching/PolicyHandler.class
+matching/config/kafka/KafkaProcessor.class
+matching/AbstractEvent$1.class
+matching/ClassStatus.class
+matching/Class.class
+matching/ClassController.class
+matching/ClassRepository.class
+matching/ClassStatusRepository.class
